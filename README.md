@@ -33,9 +33,9 @@ Here is a walkthrough video of my application: "https://www.loom.com/share/e0ab8
    ## ScreenShot
    The following displays a snapshot of my NoSQL Social Network Application:
 
-![Snapshot of my "NoSQL Social Network Application".](./Assets/GetUsers.png?raw=true>)
+![Snapshot of my "NoSQL Social Network App".](./Assets/GetUsers.png?raw=true>)
 
-![Snapshot of my "NoSQL Social Network Application".](./Assets/CreateReaction.png?raw=true>)
+![Snapshot of my "NoSQL Social Network App".](./Assets/CreateReaction.png?raw=true>)
 
   ## License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
