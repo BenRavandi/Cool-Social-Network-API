@@ -31,7 +31,7 @@ Here is a walkthrough video of my application: "https://www.loom.com/share/e0ab8
    Used as an social netwrok backend API to manage users and thoughts of listed members. 
 
    ## ScreenShot
-   The following displays a snapshot of my NoSQL Social Network Application:
+   The following displays a snapshot of my NoSQL Social Network application:
 
 ![Snapshot of my "NoSQL Social Network App".](./Assets/GetUsers.png?raw=true>)
 
