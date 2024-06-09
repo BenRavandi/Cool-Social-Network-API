@@ -1,3 +1,4 @@
+// Import requried Classes & Libraries
 const { Schema, model } = require("mongoose");
 
 // Define the reaction subdocument schema
@@ -29,6 +30,7 @@ const reactionSchema = new Schema(
   }
 );
 
+// Define the thoughtschema as parent schema
 const thoughtSchema = new Schema(
   {
     thoughtText: {
